@@ -1,0 +1,7 @@
+{
+  "name": "asera",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": { "@elevenlabs/elevenlabs-js": "^2.0.0" }
+}
